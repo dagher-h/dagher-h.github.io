@@ -138,7 +138,7 @@ en: &DEFAULT_EN
     email: "Email*"
     email-validation: "haladagher.m333@gmail.com."
     phone: "Phone Number"
-    phone-validation: "0759136941"."
+    phone-validation: "0759136941"
     message: "Message*"
     message-validation: "Hii."
     subject: "Contact Form Submission"
