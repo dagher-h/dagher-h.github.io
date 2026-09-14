@@ -131,16 +131,16 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "haladagher.m333@gmail.com or call 0759136941"
     section: contact
     name: "Name*"
-    name-validation: "Please enter your name."
+    name-validation: "Hala Dagher."
     email: "Email*"
-    email-validation: "Please enter your email address."
+    email-validation: "haladagher.m333@gmail.com."
     phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
+    phone-validation: "0759136941"."
     message: "Message*"
-    message-validation: "Please enter a message."
+    message-validation: "Hii."
     subject: "Contact Form Submission"
     submit: "Send Message"
 
